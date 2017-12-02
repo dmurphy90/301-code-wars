@@ -15,4 +15,4 @@ function capitalize(s){
   var isEven = arr.join('');
   var isOdd = arrOdd.join('');
   return [isEven, isOdd];
-};
+};;
