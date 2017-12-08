@@ -1,3 +1,5 @@
-# 301 CODE WARS
+https://www.codewars.com/kata/reversed-strings/train/javascript
 
-The purpose of this repository is to hold all my solutions to the Code Wars problems presented to us in 301
+Complete the solution so that it reverses the string value passed into it.
+
+(CANNOT USE .REVERSE)
